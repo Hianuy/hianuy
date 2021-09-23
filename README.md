@@ -1,9 +1,6 @@
 ### Hello word! I am Hianuy 👋
 
 
-**Hianuy/hianuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 Hoje eu trabalho com desenvolvimento Mobile.
 - 🌱 Sempre estudando tudo relacionado ao desenvolvimento nativo(Android) principalmente focado em Kotlin
 
